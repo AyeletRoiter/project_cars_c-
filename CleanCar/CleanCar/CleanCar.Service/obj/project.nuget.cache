@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymh0VXxe2e0WuYYasz6mpniynNY7gYqTxh+Rt/QVGkIk3iRVuZT90ZJzvF+kICk+9pdaUPMcUoOvPDUaY9c2/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayelet\\Documents\\לימודים\\C#\\Submition Project\\project_cars_c-\\CleanCar\\CleanCar\\CleanCar.Service\\CleanCar.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayelet\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ayelet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ayelet\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ayelet\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ayelet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

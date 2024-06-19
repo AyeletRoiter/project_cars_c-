@@ -1,0 +1,17 @@
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\bin\Debug\net6.0\CleanCar.Data.deps.json
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\bin\Debug\net6.0\CleanCar.Data.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\bin\Debug\net6.0\CleanCar.Data.pdb
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\bin\Debug\net6.0\CleanCar.Core.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\bin\Debug\net6.0\CleanCar.Core.pdb
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.csproj.AssemblyReference.cache
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.AssemblyInfoInputs.cache
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.AssemblyInfo.cs
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.csproj.CopyComplete
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\refint\CleanCar.Data.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.pdb
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\ref\CleanCar.Data.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\bin\Debug\net6.0\CleanCar.Data.runtimeconfig.json
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Data\obj\Debug\net6.0\CleanCar.Data.genruntimeconfig.cache

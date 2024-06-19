@@ -1,0 +1,12 @@
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\bin\Debug\net6.0\CleanCar.Core.deps.json
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\bin\Debug\net6.0\CleanCar.Core.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\bin\Debug\net6.0\CleanCar.Core.pdb
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.csproj.AssemblyReference.cache
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.AssemblyInfoInputs.cache
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.AssemblyInfo.cs
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\refint\CleanCar.Core.dll
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\CleanCar.Core.pdb
+C:\Users\Ayelet\Documents\לימודים\C#\final_project\CleanCar\CleanCar\CleanCar.Core\obj\Debug\net6.0\ref\CleanCar.Core.dll
